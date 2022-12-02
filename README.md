@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+### About me:
+
+My Name is Daniel, i'm a Frontend and Mobile Developer from Germany 
+
+#### My Most used Languages are:
 ![stat 1](https://github-readme-stats.vercel.app/api/top-langs/?username=DKJohn92&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact)
-
-![stat 2](https://github-readme-stats.vercel.app/api?username=DKJohn92&show_icons=true&count_private=true&theme=tokyonight)
-
 
 <!--
 **DKJohn92/DKJohn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
