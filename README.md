@@ -2,7 +2,7 @@
 
 ### About me:
 
-My Name is Daniel, i'm a Frontend and Mobile Developer from Germany 
+My Name is Daniel, i'm a Fullstack and Mobile Developer from Germany 
 
 
 
