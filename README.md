@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** with a strong background in **React Na
 - **Frontend**: React, React Native
 - **Backend**: Node.js, Go, Python, Ruby on Rails, Elixir
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, Kubernetes, CI/CD
+- **DevOps**: AWS, Docker, Kubernetes, CI/CD
 - **Other**: Microservices, IoT, Machine Learning
 
 ## GitHub Stats 📈
