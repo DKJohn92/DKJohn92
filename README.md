@@ -1,26 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-### About me:
+## About Me
 
-My Name is Daniel, i'm a Fullstack and Mobile Developer from Germany 
+I'm a passionate **Full Stack Developer** with a strong background in **React Native**, **React**, **Node.js**, **Go**, and **Python**. With over 6 years of experience (since 2018) in the IT industry, I have worked on several applications and led my own team on a major project. Currently, I'm working on microservices, IoT, Frontends and machine learning projects.
+
+## Skills and Technologies 🛠️🧰
+
+- **Frontend**: React, React Native
+- **Backend**: Node.js, Go, Python, Ruby on Rails, Elixir
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **Other**: Microservices, IoT, Machine Learning
+
+## GitHub Stats 📈
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKJohn92&layout=compact&theme=radical)
+
+
+## Projects 
+
+### Food Recommendations App 🍔🍣
+
+I'm working on a hobby project that combines my love for food with technology. It's a food recommendations app that helps users discover great food based on their preferences and location.
 
 
 
-<!--
-**DKJohn92/DKJohn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests ⚡️
 
-Here are some ideas to get you started:
+- **Sports**: Muay Thai, Surfing
+- **Hobbies**: Hiking, Enjoying nature with loved ones
+- **Tech**: Microservices, IoT, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- https://github.com/anuraghazra/github-readme-stats
-#### My Most used Languages are:
-![stat 1](https://github-readme-stats.vercel.app/api/top-langs/?username=DKJohn92&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact)
+## Let's Connect ✉️
 
--->
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/daniel-john-kerschl-6605b4204)
+
+---
+
+Thanks for visiting! Feel free to check out my repositories and get in touch. Let's build something amazing together!
