@@ -33,7 +33,7 @@ I'm working on a hobby project that combines my love for food with technology. I
 
 ## Let's Connect ✉️
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/daniel-john-kerschl-6605b4204)
+- **LinkedIn**: [Daniel Kerschl](www.linkedin.com/in/daniel-john-kerschl-6605b4204)
 
 ---
 
