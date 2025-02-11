@@ -17,20 +17,6 @@ I'm a passionate **Full Stack Developer** with a strong background in **React Na
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKJohn92&layout=compact&theme=radical)
 
 
-## Projects 
-
-### Food Recommendations App 🍔🍣
-
-I'm working on a hobby project that combines my love for food with technology. It's a food recommendations app that helps users discover great food based on their preferences and location.
-
-
-
-## Interests ⚡️
-
-- **Sports**: Muay Thai, Surfing
-- **Hobbies**: Hiking, Enjoying nature with loved ones
-- **Tech**: Microservices, IoT, Machine Learning
-
 ## Let's Connect ✉️
 
 - **LinkedIn**: [Daniel Kerschl](www.linkedin.com/in/daniel-john-kerschl-6605b4204)
